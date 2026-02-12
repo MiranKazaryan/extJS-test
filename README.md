@@ -1,7 +1,7 @@
 ﻿# ExtJS Test Task - Street Editor
 
 Тестовое приложение на ExtJS с двумя связанными таблицами: города и улицы.
-
+https://mirankazaryan.github.io/extJS-test/
 ## Технологии
 - ExtJS 6.0.0 (CDN)
 - MVVM (ViewModel + ViewController)
